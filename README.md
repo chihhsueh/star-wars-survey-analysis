@@ -1,2 +1,10 @@
-# star-wars-survey-analysis
-This project analyzes FiveThirtyEight’s Star Wars survey dataset using Python and pandas. It focuses on cleaning messy survey data and uncovering insights into fan preferences, film rankings, and demographic trends. A great hands-on example of real-world data wrangling and analysis for aspiring data analysts.
+## Star Wars Survey Data Analysis
+
+This project analyzes FiveThirtyEight’s *Star Wars* survey dataset using Python and pandas. The goal is to clean real-world survey data and extract meaningful insights into fan film preferences and demographic trends.
+
+### Key Objectives:
+- Clean and transform messy data (e.g., Booleans, checkboxes, column renaming)
+- Identify the most-viewed and highest-rated *Star Wars* films
+- Explore how opinions vary across gender and education level
+
+This hands-on project demonstrates essential data wrangling and analysis skills relevant to real-world data analyst roles.
