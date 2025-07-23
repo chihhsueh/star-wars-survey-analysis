@@ -29,6 +29,17 @@ Created grouped comparisons by demographic variables
 Identified most liked, disliked, and polarizing characters
 
 <img width="580" height="297" alt="image" src="https://github.com/user-attachments/assets/8790c7a4-c607-4786-85dc-429eb0d31c8e" />
+📊 Visual Example: Average Film Rankings
+This horizontal bar chart displays the average viewer ranking of each Star Wars film (Episodes I–VI), based on survey responses from FiveThirtyEight’s dataset.
+
+Lower scores indicate higher favorability (1 = most liked, 6 = least liked).
+
+Episode V (The Empire Strikes Back) emerged as the most popular film on average.
+
+Episode III (Revenge of the Sith) received the lowest overall ranking.
+
+The chart uses customized colors, background styling, and annotation to enhance readability and highlight the ranking logic (lower = better).
+
 
 <img width="580" height="316" alt="image" src="https://github.com/user-attachments/assets/e8e1c1cd-9395-44e5-bf99-8d9577fa4790" />
 
