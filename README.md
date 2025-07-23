@@ -8,3 +8,23 @@ This project analyzes FiveThirtyEight’s *Star Wars* survey dataset using Pytho
 - Explore how opinions vary across gender and education level
 
 This hands-on project demonstrates essential data wrangling and analysis skills relevant to real-world data analyst roles.
+🛠️ Tools & Technologies
+Python
+
+pandas
+
+Jupyter Notebook
+
+Matplotlib / Seaborn
+
+Git/GitHub
+
+📈 Key Features
+Mapped yes/no and checkbox responses into boolean data
+
+Analyzed film rankings by average rating and view count
+
+Created grouped comparisons by demographic variables
+
+Identified most liked, disliked, and polarizing characters
+
