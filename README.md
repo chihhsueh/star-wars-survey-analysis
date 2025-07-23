@@ -28,3 +28,10 @@ Created grouped comparisons by demographic variables
 
 Identified most liked, disliked, and polarizing characters
 
+<img width="580" height="297" alt="image" src="https://github.com/user-attachments/assets/8790c7a4-c607-4786-85dc-429eb0d31c8e" />
+
+<img width="580" height="316" alt="image" src="https://github.com/user-attachments/assets/e8e1c1cd-9395-44e5-bf99-8d9577fa4790" />
+
+<img width="942" height="393" alt="image" src="https://github.com/user-attachments/assets/a2f55a01-0a73-400d-8061-46a20d775aae" />
+
+
